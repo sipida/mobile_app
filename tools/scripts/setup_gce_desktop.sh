@@ -13,7 +13,7 @@ vncserver -kill :1
 
 copy the script to .vnc/xstartup
 
-====
+==== for ubunto 14.04
 #!/bin/sh
 export XKL_XMODMAP_DISABLE=1
 unset SESSION_MANAGER
